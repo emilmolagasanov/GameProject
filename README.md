@@ -4,7 +4,7 @@ Bu oyun, basit bir matematik oyununun temel yapı taşlarını içerir. Oyuncula
 ## Oyunun Özellikleri
 Rastgele Soru Oluşturma: Soru() fonksiyonu, rastgele iki sayı ve bir işlem belirler. Sayılar ve işlem işaretleri rastgele olarak seçilir.
 
-Cevap Kontrolü: cevapkontrol() fonksiyonu, kullanıcının girdiği cevabı kontrol eder. Eğer cevap doğru ise, sonucu "Doğru" olarak işaretler ve yeşil renkte gösterir. Yanlış ise, sonucu "Yanlış" olarak işaretler ve kırmızı renkte gösterir. Yanlış cevap sayısını tutar.
+ Cevap Kontrolü: cevapkontrol() fonksiyonu, kullanıcının girdiği cevabı kontrol eder. Eğer cevap doğru ise, sonucu "Doğru" olarak işaretler ve yeşil renkte gösterir. Yanlış ise, sonucu "Yanlış" olarak işaretler ve kırmızı renkte gösterir. Yanlış cevap sayısını tutar.
 
 Oyun Bitimi: Eğer kullanıcı üç yanlış cevap verirse, yanlisSayisi değişkeni 3'e eşit veya büyük olur. Bu durumda gameOver nesnesi aktifleştirilir ve oyun durdurulur.
 
