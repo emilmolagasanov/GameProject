@@ -12,6 +12,9 @@ UI Öğeleri: ilksayi, ikincisayi, islem, cevap, sonuc, yanlisSayisiText ve sonu
 ## Oyunun Nasıl Oynandığını Görmek İçin Aşağıdaki Linkten Videoyu İzleyebilirsiz:
 https://youtu.be/S3gKnVuZHDM
 
+## Onedrive Linki.
+https://uludagedutr-my.sharepoint.com/:f:/g/personal/132230125_ogr_uludag_edu_tr/EukZMe2lWutMikw91R1SdYgBOtEyc4Q9wlvbgUksFnpkNg?e=S7Kyie
+
 ## Oyundan Ekran Görüntüleri:
 Giriş Ekranı
 ![Ekran görüntüsü 2024-06-06 003038](https://github.com/emilmolagasanov/GameProject/assets/148893884/243adb2b-fc96-49a8-b94d-62089012c9a1)
