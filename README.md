@@ -13,7 +13,7 @@ UI Öğeleri: ilksayi, ikincisayi, islem, cevap, sonuc, yanlisSayisiText ve sonu
 https://youtu.be/S3gKnVuZHDM
 
 ## Onedrive Linki.
-https://uludagedutr-my.sharepoint.com/:f:/g/personal/132230125_ogr_uludag_edu_tr/EukZMe2lWutMikw91R1SdYgBOtEyc4Q9wlvbgUksFnpkNg?e=S7Kyie
+[https://uludagedutr-my.sharepoint.com/:f:/g/personal/132230125_ogr_uludag_edu_tr/EukZMe2lWutMikw91R1SdYgBOtEyc4Q9wlvbgUksFnpkNg?e=S7Kyie](https://uludagedutr-my.sharepoint.com/:f:/g/personal/132230125_ogr_uludag_edu_tr/EsAJ86pfVGlLkyOZztBo8gABLv4UPjoVCXlDEZlF-sGEsA?e=eDthDt)
 
 ## Oyundan Ekran Görüntüleri:
 Giriş Ekranı
