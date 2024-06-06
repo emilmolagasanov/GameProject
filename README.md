@@ -13,7 +13,11 @@ UI Öğeleri: ilksayi, ikincisayi, islem, cevap, sonuc, yanlisSayisiText ve sonu
 https://youtu.be/S3gKnVuZHDM
 
 ## Onedrive Linki.
-[https://uludagedutr-my.sharepoint.com/:f:/g/personal/132230125_ogr_uludag_edu_tr/EukZMe2lWutMikw91R1SdYgBOtEyc4Q9wlvbgUksFnpkNg?e=S7Kyie](https://uludagedutr-my.sharepoint.com/:f:/g/personal/132230125_ogr_uludag_edu_tr/EsAJ86pfVGlLkyOZztBo8gABLv4UPjoVCXlDEZlF-sGEsA?e=eDthDt)
+[https://uludagedutr-my.sharepoint.com/:f:/g/personal/132230125_ogr_uludag_edu_tr/EukZMe2lWutMikw91R1SdYgBOtEyc4Q9wlvbgUksFnpkNg?e=S7Kyie](https://uludagedutr-my.sharepoint.com/:f:/g/personal/132230125_ogr_uludag_edu_tr/EsAJ86pfVGlLkyOZztBo8gABLv4UPjoVCXlDEZlF-sGEsA?e=eDthDt) 
+
+## BTK Akademi Aldığım Sertifikanın Ekran Görüntüsü:
+
+![Ekran görüntüsü 2024-06-06 164606](https://github.com/emilmolagasanov/GameProject/assets/148893884/d779f761-2336-4f8b-9f90-5503d0a808d6)
 
 ## Oyundan Ekran Görüntüleri:
 Giriş Ekranı
